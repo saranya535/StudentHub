@@ -53,3 +53,39 @@ StudentHub is a web application designed to manage courses and students in an ed
         - node server.js
    - On client terminal
         - npm start
+
+## Screenshot Output:
+- Signup
+  
+  ![image](https://github.com/saranya535/StudentHub/assets/166517113/79f6aac7-46af-44d3-a545-6c6fc3addab1)
+
+- Login
+  
+  ![image](https://github.com/saranya535/StudentHub/assets/166517113/64105b0c-b47f-4c19-879e-78cc40ac1a01)
+
+- Home
+
+  ![Home](https://github.com/saranya535/StudentHub/assets/166517113/9c21c8d9-dfcf-4bda-ad84-a6d56bddb1d2)
+
+- Add New Student
+
+  ![image](https://github.com/saranya535/StudentHub/assets/166517113/3810186e-5ebe-4046-9fd1-ec8db5d17e3c)
+
+- Add New Course
+
+  ![image](https://github.com/saranya535/StudentHub/assets/166517113/4462e88f-9181-43b1-b601-181da0aac0a8)
+
+- Enroll Student to Course
+
+  ![image](https://github.com/saranya535/StudentHub/assets/166517113/58e47769-34dd-477f-8ba6-d327fa293a62)
+
+- Edit existing Course
+
+  ![image](https://github.com/saranya535/StudentHub/assets/166517113/1c223c27-598e-4a47-9676-bf6e3c535608)
+
+- Edit Student
+
+  ![image](https://github.com/saranya535/StudentHub/assets/166517113/672ffa7b-3487-4613-8d4d-82af9551f00a)
+
+
+
