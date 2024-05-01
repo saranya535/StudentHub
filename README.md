@@ -31,3 +31,21 @@ StudentHub is a web application designed to manage courses and students in an ed
 1. Clone the repository:
 
 https://github.com/saranya535/StudentHub.git
+
+
+2. Install dependencies:
+-on server side
+cd server 
+npm install
+
+-on client side
+cd client 
+npm install
+
+
+3. Set up environment variables:
+
+   - Create a `.env` file in the root directory.
+   - Add the following environment variables:
+
+
