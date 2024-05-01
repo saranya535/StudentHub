@@ -43,5 +43,7 @@ https://github.com/saranya535/StudentHub.git
 
    - Create a `.env` file in the server folder.
    - Add the following environment variables:
-
+PORT=3000
+MONGODB_URI=your_mongodb_url
+SECRET_KEY=your_secret_key
 
