@@ -34,18 +34,14 @@ https://github.com/saranya535/StudentHub.git
 
 
 2. Install dependencies:
--on server side
-cd server 
-npm install
-
--on client side
-cd client 
-npm install
+   
+- On server side
+- 
 
 
 3. Set up environment variables:
 
-   - Create a `.env` file in the root directory.
+   - Create a `.env` file in the server folder.
    - Add the following environment variables:
 
 
