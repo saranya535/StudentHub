@@ -30,3 +30,4 @@ StudentHub is a web application designed to manage courses and students in an ed
 
 1. Clone the repository:
 
+https://github.com/saranya535/StudentHub.git
