@@ -30,20 +30,26 @@ StudentHub is a web application designed to manage courses and students in an ed
 
 1. Clone the repository:
 
-https://github.com/saranya535/StudentHub.git
-
+   - https://github.com/saranya535/StudentHub.git
 
 2. Install dependencies:
-   
-- On server side
-- 
-
+   - On server side
+        - cd server
+        - npm install
+   - On client side
+      - cd client
+      - npm install
 
 3. Set up environment variables:
 
    - Create a `.env` file in the server folder.
    - Add the following environment variables:
-PORT=3000
-MONGODB_URI=your_mongodb_url
-SECRET_KEY=your_secret_key
+      - PORT=3000
+      - MONGODB_URI=your_mongodb_url
+      - SECRET_KEY=your_secret_key
+4. Run the application
 
+   - On server terminal
+        - node server.js
+   - On client terminal
+        - npm start
