@@ -1,6 +1,6 @@
 # StudentHub
 
-StudentHub is a web application designed to manage courses and students in an educational institution. It provides functionalities for adding, updating, and deleting both courses and students.
+StudentHub is a web application designed to manage courses and students in an educational institution. It provides functionalities for adding, updating, and deleting both courses and students. It also has option to enroll student into courses.
 
 ## Features
 
