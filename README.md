@@ -66,6 +66,8 @@ StudentHub is a web application designed to manage courses and students in an ed
 - Home
 
   ![Home](https://github.com/saranya535/StudentHub/assets/166517113/9c21c8d9-dfcf-4bda-ad84-a6d56bddb1d2)
+  ![Screenshot 2024-09-19 092228](https://github.com/user-attachments/assets/29570b07-c831-4eff-9d35-83d9969c2837)
+
 
 - Add New Student
 
